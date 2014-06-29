@@ -8,4 +8,4 @@ License
 
 Copyright 2014 Petr Shalkov mApostol@yandex.ru
 
-[MIT license](http://sjs.mit-license.org)
+[MIT license](https://github.com/xio4/ultra_strftime/blob/master/LICENSE)
